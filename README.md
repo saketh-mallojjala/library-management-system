@@ -14,7 +14,7 @@ This project implements a simple Library Management System in Python. The system
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/library-management-system.git
+    git clone https://github.com/saketh-mallojjala/library-management-system.git
     ```
 
 2. Navigate to the project directory:
